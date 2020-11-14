@@ -1,0 +1,6 @@
+classes= 7
+train  = /home/ubuntu/Trung/yolov4/darknet/x64/data/train.txt
+valid  = /home/ubuntu/Trung/yolov4/darknet/x64/data/test.txt
+names  = /home/ubuntu/Trung/yolov4/darknet/x64/data/obj.names
+backup = /home/ubuntu/Trung/yolov4/darknet/backup
+
